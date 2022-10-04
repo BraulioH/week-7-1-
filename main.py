@@ -7,11 +7,19 @@
 # Random in python
 # List comprehension
 #importing modules
+#modularized your code
 #work on creating and understanding functions
 
-from decision_making import decisions
-from comparison_operators import comparison
+#from decision_making import decisions
+#from comparison_operators import comparison
 # from dictionaries_loops import dictionaries_loops
-
-decisions()
-comparison()
+from loops import loop
+#from enumerators import numerators
+#from list_comprehension import comprehension
+#from logical_operators import operators
+#decisions()
+#comparison()
+loop()
+#numerators()
+#comprehension()
+#operators()
